@@ -45,3 +45,5 @@ print("l6", l6)
 l6[1] = 10
 print("l3", l3)
 print("l6", l6)
+
+print(l3 + l6)
