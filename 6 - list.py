@@ -23,6 +23,7 @@ print(l3)
 
 l3.remove(31) # removes the first occurrence of the value
 print(l3)
+
 l3.remove(31) # removes the first occurrence of the value
 print(l3)
 
@@ -37,7 +38,7 @@ print("l3", l3)
 
 print(l3.count(100)) # returns the number of occurrences of the value
 
-print(l3[1:4])
+print(l3[1:4]) # Slicing
 
 l6 = l3.copy()
 print("l6", l6)
