@@ -8,4 +8,4 @@ class Utudiant :
 
 etd1 = Utudiant("hesan" , 16 ,14)
 print(etd1.age)
-etd1.ajouterNote(1)
+etd1.ajouterNote(2)
